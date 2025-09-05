@@ -46,11 +46,12 @@ Power BI – Dashboard development
 Data Cleaning & Transformation: Power Query
 Visualization: DAX Measures, Custom Charts, KPIs
 
-How the first slide will look like:
-![alt text](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png)
-Example: ![dashboard preview](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%204.png)
 📌 Key Insights
 A significant portion of rides (≈38%) are canceled (driver + customer + not found).
 Customer satisfaction is slightly lower than driver satisfaction.
 Bikes and E-Bikes cover the most distance, showing high utilization.
 Cash transactions still dominate over digital methods like UPI.
+
+How the 1st slide looks like:
+![alt text](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png)
+And the 4th one: ![dashboard preview](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%204.png)
