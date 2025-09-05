@@ -44,11 +44,11 @@ CID997800 – 2078
 🛠️ Tools & Technologies
 Power BI – Dashboard development
 Data Cleaning & Transformation: Power Query
-
-How the first slide will look like:
-https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png
 Visualization: DAX Measures, Custom Charts, KPIs
 
+How the first slide will look like:
+![alt text](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png)
+Example: ![dashboard preview](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png)
 📌 Key Insights
 A significant portion of rides (≈38%) are canceled (driver + customer + not found).
 Customer satisfaction is slightly lower than driver satisfaction.
