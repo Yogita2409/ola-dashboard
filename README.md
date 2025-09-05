@@ -44,6 +44,9 @@ CID997800 – 2078
 🛠️ Tools & Technologies
 Power BI – Dashboard development
 Data Cleaning & Transformation: Power Query
+
+How the first slide will look like:
+https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png
 Visualization: DAX Measures, Custom Charts, KPIs
 
 📌 Key Insights
