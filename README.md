@@ -52,6 +52,8 @@ Customer satisfaction is slightly lower than driver satisfaction.
 Bikes and E-Bikes cover the most distance, showing high utilization.
 Cash transactions still dominate over digital methods like UPI.
 
+Access live project: https://app.powerbi.com/groups/me/reports/48caed0d-00ff-4d07-8cf3-5d3fad98fd0d/a04699e9c868242abc04?experience=power-bi
+
 How the 1st slide looks like:
 ![alt text](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%201.png)
 And the 4th one: ![dashboard preview](https://github.com/Yogita2409/ola-dashboard/blob/master/slide%204.png)
